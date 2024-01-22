@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Fetch_images_from_api_app" parent="Theme.Material3.Dark">
+        <item name="android:navigationBarColor">@color/vall_color</item>
+        <item name="android:actionBarStyle">@color/vall_color</item>
+        <!-- Customize your status bar color and text/icon color here. -->
+        <item name="android:statusBarColor">@color/vall_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+    <style name="Theme.Fetch_images_from_api_app" parent="Base.Theme.Fetch_images_from_api_app" />
+</resources>
